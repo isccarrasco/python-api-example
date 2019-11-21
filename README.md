@@ -13,5 +13,10 @@ Python project to implement and oscl adapter.
 
 
 
-# Run application
+# Run application 
+$ cd python-oslc-example
+$ python3 -m venv venv
+$ . venv/bin/activate
+$ pip install flask
+$ pip install flask-resplus
 $ python3 main.py
