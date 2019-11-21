@@ -11,3 +11,7 @@ Python project to implement and oscl adapter.
 3. Create two endpoints for each domains for getting and posting resouces.
    responses should be rdf format (turtle, rdf+xml, or json-ld)
 
+
+
+# Run application
+$ python3 main.py
