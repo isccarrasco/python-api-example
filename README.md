@@ -1,4 +1,4 @@
-# python-oslc-example
+# python-api-example
 Python project to implement and oscl adapter.
 
 1. Create a Flask API.
@@ -24,7 +24,7 @@ Python project to implement and oscl adapter.
 
 2. Go into the folder
    ```bash
-   cd python-oslc-example
+   cd python-api-example
    ```
 
 3. Create the virtual environment
